@@ -1,0 +1,44 @@
+*  /* selectionneur universel */
+body
+{ 
+    background-color: #ECF0F1; 
+}
+h1,h2,h3,h4,h5
+{
+  font-family: "Arial";  
+}
+h1
+{
+    text-align: center;
+    color:red;
+
+}
+    
+}
+h2
+{
+    text-align:center;
+    font-size:x-large;      
+}
+h3
+{
+    font-family: "Arial";
+}
+p1
+{
+    font-family: "Gadugi";
+}
+p2
+{
+    font-family: "Gadugi";
+    text-align: right;
+}
+h4
+{
+    font-size: xx-large;
+    text-align: center;
+}
+h5
+{
+    font-size:x-large;
+}
